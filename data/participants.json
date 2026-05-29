@@ -1022,8 +1022,8 @@
     "app_type": "nowes-app",
     "pr_number": 117,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/117",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xa44f7563c46f199b704b59c6320204d6730fd2f53929dc9e820c35d76fd0b92a",
+    "vault_address": "0x19e6E2a3ca7A73089e0DdFA4f0AA0C892D7E3d4F",
+    "paid_at": "2026-05-29T16:47:53.576Z"
   }
 ]
